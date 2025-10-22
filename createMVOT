@@ -1,0 +1,9 @@
+{
+    "extSystem":"IVR",
+    "accountNum":"510843752161250600",
+    "serviceOrderType":"MVOT",
+    "requestedDate":"28-OCT-2025",      
+    "createOrder":"Y",
+    "notes":"This is a test notes which is from IVR for testing STOPServices.",
+    "applianceMoveInd":"N"
+}
